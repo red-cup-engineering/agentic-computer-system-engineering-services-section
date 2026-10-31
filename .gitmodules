@@ -2,10 +2,6 @@
 	path = apps/agent-organization-engine
 	url = https://github.com/red-cup-engineering/agent-organization-engine.git
 	branch = main
-[submodule "resolving-an-identifier"]
-	path = services/task-management-computer-system-engineering-services-section/services/identifier-resolution-services-section/services/resolving-an-identifier
-	url = https://github.com/red-cup-engineering/resolving-an-identifier.git
-	branch = main
 [submodule "multi-agent-computer-system-engineering-services-section"]
 	path = services/multi-agent-computer-system-engineering-services-section
 	url = https://github.com/red-cup-engineering/multi-agent-computer-system-engineering-services-section.git
@@ -38,3 +34,7 @@
 [submodule "services/agentic-blockchain-computer-systems-engineering-services-section"]
 	path = services/agentic-blockchain-computer-systems-engineering-services-section
 	url = https://github.com/red-cup-engineering/agentic-blockchain-computer-systems-engineering-services-section.git
+[submodule "services/task-management-computer-system-engineering-services-section"]
+	path = services/task-management-computer-system-engineering-services-section
+	url = https://github.com/red-cup-engineering/task-management-computer-system-engineering-services-section.git
+	branch = main
