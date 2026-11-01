@@ -24,9 +24,10 @@
 [submodule "services/agentic-computer-system-organization-services-section-engineering-services-section"]
 	path = services/agentic-organization-computer-system-engineering-services-section
 	url = https://github.com/red-cup-engineering/agentic-organization-computer-system-engineering-services-section.git
-[submodule "services/capability-marketplace-engineering-services-section/services/capability-market-service"]
-	path = services/capability-marketplace-engineering-services-section/services/capability-market-service
-	url = https://github.com/red-cup-engineering/capability-market-service.git
 [submodule "services/agentic-blockchain-computer-systems-engineering-services-section"]
 	path = services/agentic-blockchain-computer-systems-engineering-services-section
 	url = https://github.com/red-cup-engineering/agentic-blockchain-computer-systems-engineering-services-section.git
+[submodule "services/capability-marketplace-engineering-services-section"]
+	path = services/capability-marketplace-engineering-services-section
+	url = https://github.com/red-cup-engineering/capability-marketplace-engineering-services-section.git
+	branch = main
