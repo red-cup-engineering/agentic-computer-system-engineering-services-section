@@ -28,5 +28,5 @@
 	path = services/agentic-blockchain-computer-systems-engineering-services-section
 	url = https://github.com/red-cup-engineering/agentic-blockchain-computer-systems-engineering-services-section.git
 [submodule "services/flatfile-agentic-resource-computer-systems-engineering-services-section"]
-	path = services/flatfile-agentic-resource-computer-systems-engineering-services-section
-	url = https://github.com/red-cup-engineering/flatfile-agentic-resource-computer-systems-engineering-services-section.git
+	path = services/flatfile-agentic-resource-systems-engineering-services-section
+	url = https://github.com/red-cup-engineering/flatfile-agentic-resource-systems-engineering-services-section.git
